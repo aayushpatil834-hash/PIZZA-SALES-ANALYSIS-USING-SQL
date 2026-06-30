@@ -20,7 +20,7 @@ Each analysis is written as a separate SQL file for easy understanding and execu
 
 ### Category-wise Quantity Ordered
 
-<img width="936" height="540" alt="each_cat_cum" src="https://github.com/user-attachments/assets/6ab7f831-6328-424b-86ca-49dc665aa81e" />
+<img width="808" height="408" alt="Screenshot 2026-06-30 214517" src="https://github.com/user-attachments/assets/a146dea1-fa2f-42a2-8d13-fc7df8894e7d" />
 
 ---
 
