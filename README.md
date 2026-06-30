@@ -102,4 +102,4 @@ Pizza-Sales-SQL/
 
 ## Author
 
-**Jhumka Por**
+**Aayush Patil**
